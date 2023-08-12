@@ -17,8 +17,6 @@ opencv-python=4.6.0.66
 
 **Download weights folder and place it in root directory**
 
-link: https://drive.google.com/drive/folders/1oFjbY2YcoVx8t4RcPbkjNQFe6RZsRwXr?usp=share_link
-
 
 
 **Steps**
